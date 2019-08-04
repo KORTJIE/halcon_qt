@@ -1,1 +1,1 @@
-# halcon_qt
+halcon自带qt例子注释
