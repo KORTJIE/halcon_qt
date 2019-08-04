@@ -18,3 +18,6 @@ HEADERS	    += matching.h
 SOURCES	    += qhalconwindow.cpp
 SOURCES	    += matching.cpp
 SOURCES	    += main.cpp
+
+DISTFILES += \
+    README.md
